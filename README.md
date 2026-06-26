@@ -43,7 +43,11 @@ Three user accounts were created in Microsoft Entra ID, each representing a dist
 
 **Screenshot — All Users Created in Microsoft Entra ID:**
 
-![Users Overview](assets/users-overview.png)
+
+
+<img width="1111" height="590" alt="users-overview2" src="https://github.com/user-attachments/assets/f1197801-66df-450f-8b69-b881bc557a60" />
+
+
 
 ---
 
@@ -61,11 +65,18 @@ Three user accounts were created in Microsoft Entra ID, each representing a dist
 
 **Screenshot — Security Reader Role Selection:**
 
-![Kay Security Reader Selection](assets/kay-security-reader-selection.png)
+
+<img width="1348" height="670" alt="Screenshot 2026-03-04 00 00 43" src="https://github.com/user-attachments/assets/dbed37a2-f151-4219-b1d0-bc1adc064725" />
+
+
 
 **Screenshot — Security Reader Role Confirmed:**
 
-![Kay Security Reader Assigned](assets/kay-security-reader-assigned.png)
+
+
+<img width="1348" height="670" alt="Screenshot 2026-03-04 00 01 19" src="https://github.com/user-attachments/assets/a7e3edac-c513-47fd-b5dc-f3de4c0ed6b5" />
+
+
 
 ---
 
@@ -81,11 +92,17 @@ Three user accounts were created in Microsoft Entra ID, each representing a dist
 
 **Screenshot — Agent ID Developer Role Selection:**
 
-![Rose Agent Developer Selection](assets/rose-agent-developer-selection.png)
+
+<img width="1348" height="670" alt="Screenshot 2026-03-04 00 04 42" src="https://github.com/user-attachments/assets/77b09241-cced-44c1-a403-4e0d8518d0d5" />
+
+
 
 **Screenshot — Agent ID Developer Role Confirmed:**
 
-![Rose Agent Developer Assigned](assets/rose-agent-developer-assigned.png)
+
+<img width="1348" height="670" alt="Screenshot 2026-03-04 00 05 07" src="https://github.com/user-attachments/assets/751b7579-e0cf-4974-9624-c62f98b7007f" />
+
+
 
 ---
 
@@ -101,7 +118,10 @@ Three user accounts were created in Microsoft Entra ID, each representing a dist
 
 **Screenshot — Global Reader Role Selection:**
 
-![Rosy Global Reader Selection](assets/rosy-global-reader-selection.png)
+
+<img width="1348" height="670" alt="Screenshot 2026-03-04 00 07 50" src="https://github.com/user-attachments/assets/3774bc47-33d6-4c8e-8247-14a3e1625d36" />
+
+
 
 ---
 
