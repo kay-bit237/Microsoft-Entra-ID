@@ -53,8 +53,7 @@ Three user accounts were created in Microsoft Entra ID, each representing a dist
 
 ### Phase 2 — Role Assignment
 
-#### Kay — Security Department
-
+#### Kay: Security Department
 | Field | Detail |
 |---|---|
 | **Role** | Security Reader |
@@ -80,7 +79,7 @@ Three user accounts were created in Microsoft Entra ID, each representing a dist
 
 ---
 
-#### Rose — Development Department
+#### Rose : Development Department
 
 | Field | Detail |
 |---|---|
@@ -106,7 +105,7 @@ Three user accounts were created in Microsoft Entra ID, each representing a dist
 
 ---
 
-#### Rosy — Human Resources Department
+#### Rosy : Human Resources Department
 
 | Field | Detail |
 |---|---|
